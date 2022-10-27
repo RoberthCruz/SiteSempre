@@ -1,0 +1,52 @@
+.card{
+
+    padding: 4em;
+  
+}
+
+.imgpos {
+	position: absolute; 
+	right: 90px; 
+	top: 70px; 
+	}
+
+.box{
+  width: 300px;
+  height: 170px;
+  background: none;
+  margin: 0 auto 10px auto;
+  overflow: hidden;
+  text-align: center;
+
+}
+
+.borderradius{
+  border-radius: 20px;
+
+}
+
+
+.border{
+  border: 2px solid #3e3a91;
+}
+.title01{
+  color: #f37435;
+  font-size: 28px;
+}
+
+.title02{
+  color: #f37435;
+  font-size: 12px;
+
+}
+
+.title03{
+  color: #3e3a91;
+  font-size: 18px;
+}
+
+.ajust{
+padding: 1em;
+  display: inline-block;
+ 
+}

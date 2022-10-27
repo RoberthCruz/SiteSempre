@@ -1,0 +1,72 @@
+h1{
+  text-align: center;
+  font-size: 2.2em;
+  margin-top: auto;
+}
+
+
+.card{
+  width: 31%;
+  display: inline-block;
+  margin: 1% 1%;
+  padding: 15px;
+  text-align: center;
+}
+
+.serviçosimg {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-position: center;
+  background-size: cover;
+}
+
+#img01{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\sempreeduca.jpg);
+  border-radius: 15px;
+}
+
+#img02{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\sempre-card.jpg);
+  border-radius: 15px;
+}
+
+#img03{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\paramout.jpg);
+  border-radius: 15px;
+}
+
+
+#img04{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\FS-HERO.jpg);
+  border-radius: 15px;
+}
+
+#img05{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\kaspersky.jpg);
+  border-radius: 15px;
+}
+
+#img06{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\mumo.jpg);
+  border-radius: 15px;
+}
+
+#img07{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\begamer.jpg);
+  border-radius: 15px;
+}
+#img08{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\bebanca.jpg);
+  border-radius: 15px;
+}
+
+#img09{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\noggin.jpg);
+  border-radius: 15px;
+}
+
+#img10{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\tocalivros.jpg);
+  border-radius: 15px;
+}

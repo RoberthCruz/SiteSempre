@@ -1,0 +1,98 @@
+
+*{
+  
+  background-size: cover;
+  background-position: 0 55%;
+  position: relative;
+}
+
+.section01{
+  position: relative;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5em;
+  padding-bottom: 1em;
+  text-align: center;
+
+}
+
+.section01 h1{
+  font-size: 40px;
+}
+
+.section01 p {
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.space{
+  padding: 2em;
+}
+
+.plansstyle{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+.products-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card{
+  width: 31%;
+  display: inline-block;
+  margin: 1% 1%;
+  padding: 15px;
+}
+
+.planosimg {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 10px;
+  background-position: center;
+  background-size: cover;
+}
+
+#img01{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\novos_planos_sempre_fibra_vermelho_100.png);
+}
+#img02{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\novos_planos_sempre_fibra_vermelho_200.png);
+}
+#img03{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\Novos_planos_300_oferta_especial_sempre_internet.png);
+}
+#img04{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\novos_planos_sempre_fibra_vermelho_400.png);
+}
+#img05{
+  background-image: url(C:\Users\roberth.cruz\Desktop\SiteSempre\src\assets\novos_planos_sempre_fibra_vermelho_500.png);
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.btn{
+  display:block;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #3e3a91;
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 5px;
+  transition: .5s;
+}
+
+.btn:hover{
+  background-color: #f37435;
+}
+

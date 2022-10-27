@@ -1,0 +1,119 @@
+h2{
+  color: #d14343;
+}
+
+h3{
+  color: #FFFFFF;
+}
+
+h4{
+  color: #FFFFFF;
+}
+
+.imgpos{
+  position: absolute; 
+	left: 30px; 
+	top: 20em;
+  max-width: 15em;
+
+}
+
+.section h1{
+  font-size: 40px;
+  text-align: center;
+  padding: 1em;
+  margin: 0%;
+
+}
+
+.section p {
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  padding: 1em;
+  margin: 0%;
+}
+
+.relogioimg{
+  background-color: #6d7680;
+  color: #ffffff;
+  padding: 5em;
+  text-align: center;
+}
+
+.section01{
+  text-align: center;
+  display: flex;
+  right: 1em;
+  
+}
+
+.infosatend{
+  color: #ffffff;
+}
+
+.section02{
+  text-align: center;
+  display: flex;
+  right: 1em;
+  
+}
+
+.relogioimg02{
+  background-color: #6d7680;
+  color: #d14343;
+  padding: 5em;
+  text-align: center;
+}
+
+.imgpos02{
+  position: absolute; 
+	left: 30px; 
+	top: 59em;
+  max-width: 15em;
+
+}
+
+.section03{
+  text-align: center;
+  display: flex;
+  right: 1em;
+  
+}
+
+.relogioimg03{
+  background-color: #6d7680;
+  color: #d14343;
+  padding: 5em;
+  text-align: center;
+}
+
+.imgpos03{
+  position: absolute; 
+	left: 30px; 
+	top: 86em;
+  max-width: 15em;
+
+}
+
+.section04{
+  text-align: center;
+  display: flex;
+  right: 1em;
+  
+}
+
+.relogioimg04{
+  background-color: #6d7680;
+  color: #d14343;
+  padding: 5em;
+  text-align: center;
+}
+
+.imgpos04{
+  position: absolute; 
+	left: 30px; 
+	top: 117em;
+  max-width: 15em;
+
+}
